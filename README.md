@@ -1,4 +1,4 @@
-Learning never exhausts the mind.
+The only limit to our realization of tomorrow is our doubts of today.
 
 # Knowledge Documentation Repository
 
