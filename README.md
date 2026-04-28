@@ -1,3 +1,4 @@
+Success is not final, failure is not fatal: it is the courage to continue that counts.
 The beautiful thing about learning is that no one can take it away from you.
 Every accomplishment starts with the decision to try.
 
