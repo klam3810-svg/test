@@ -1,3 +1,4 @@
+The only impossible journey is the one you never begin.
 The beautiful thing about learning is that no one can take it away from you.
 Every accomplishment starts with the decision to try.
 
