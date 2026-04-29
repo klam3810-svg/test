@@ -1,5 +1,6 @@
 The beautiful thing about learning is that no one can take it away from you.
 Every accomplishment starts with the decision to try.
+The expert in anything was once a beginner.
 
 # Knowledge Documentation Repository
 
