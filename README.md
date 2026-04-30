@@ -1,4 +1,4 @@
-Learning never exhausts the mind.
+The beautiful thing about learning is that no one can take it away from you.
 
 # Knowledge Documentation Repository
 
