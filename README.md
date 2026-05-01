@@ -1,3 +1,5 @@
+The expert in anything was once a beginner.
+
 Learning never exhausts the mind.
 
 # Knowledge Documentation Repository
