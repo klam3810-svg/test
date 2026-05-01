@@ -1,4 +1,4 @@
-Learning never exhausts the mind.
+The only impossible journey is the one you never begin.
 
 # Knowledge Documentation Repository
 
