@@ -1,5 +1,7 @@
 Learning never exhausts the mind.
 
+The only true wisdom is in knowing you know nothing.
+
 # Knowledge Documentation Repository
 
 ## Purpose
