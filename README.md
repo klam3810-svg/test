@@ -1,5 +1,7 @@
 Learning never exhausts the mind.
 
+The only source of knowledge is experience.
+
 # Knowledge Documentation Repository
 
 ## Purpose
