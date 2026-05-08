@@ -1,4 +1,5 @@
 Learning never exhausts the mind.
+You never walk alone.
 
 # Knowledge Documentation Repository
 
