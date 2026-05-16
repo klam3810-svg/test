@@ -46,10 +46,11 @@ This repository uses Git for version control:
 
 ```
 .
-├── .git/              # Git repository
-├── .keep              # Placeholder file
-├── CLAUDE.md          # Development documentation
-└── README.md          # This file
+├── .git/                    # Git repository
+├── .keep                    # Placeholder file
+├── AI_READINESS_AUDIT.md    # Comprehensive AI readiness assessment
+├── CLAUDE.md                # Development documentation
+└── README.md                # This file
 ```
 
 As you add more content, create subdirectories to organize your notes by topic.

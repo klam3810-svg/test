@@ -37,10 +37,11 @@ git grep "search term"
 
 ```
 .
-├── .git/              # Git repository
-├── .keep              # Placeholder file
-├── CLAUDE.md          # This file - development documentation
-└── README.md          # Project overview and usage guide
+├── .git/                    # Git repository
+├── .keep                    # Placeholder file
+├── AI_READINESS_AUDIT.md    # Comprehensive AI readiness assessment
+├── CLAUDE.md                # This file - development documentation
+└── README.md                # Project overview and usage guide
 ```
 
 As you add more notes, organize them in subdirectories by topic:
