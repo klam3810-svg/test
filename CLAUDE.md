@@ -93,7 +93,8 @@ This document provides essential information for developers and AI assistants wo
 ├── .git/                      # Git repository metadata
 ├── .keep                      # Placeholder file
 ├── CLAUDE.md                  # This file - AI assistant guide
-└── AI_READINESS_AUDIT.md      # Comprehensive AI readiness assessment
+├── AI_READINESS_AUDIT.md      # Comprehensive AI readiness assessment
+└── README.md                  # Project README
 ```
 
 Once the project is initialized, update this section with:
