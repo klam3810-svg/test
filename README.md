@@ -1,3 +1,5 @@
+Believe you can and you're halfway there - Theodore Roosevelt
+
 You never walk alone
 You never walk alone 2
 
