@@ -13,3 +13,4 @@ Believe you can and you're halfway there (3)
 We may encounter many defeats but we must not be defeated. - Maya Angelou
 
 "Success is not final, failure is not fatal: It is the courage to continue that counts." — Winston Churchill
+xin chao 4
