@@ -106,6 +106,10 @@ Once the project is initialized, update this section with:
 
 **Current Status:** Repository is empty and awaiting project initialization. See `AI_READINESS_AUDIT.md` for comprehensive analysis and recommendations.
 
+## Git & Commit Guidelines
+* **Commit Messages**: Write concise, imperative commit messages (e.g., "Fix bug", "Add feature").
+* **No Metadata Attribution**: Do NOT include `Co-Authored-By:` or any other automated co-author signatures in the commit messages under any circumstances.
+
 ## Architecture Notes
 
 ### Key Patterns
