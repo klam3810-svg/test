@@ -19,3 +19,4 @@ xin chao 6
 "In the middle of every difficulty lies opportunity." - Albert Einstein
 "It does not matter how slowly you go as long as you do not stop." - Confucius
 "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+"Hardships often prepare ordinary people for an extraordinary destiny." - C.S. Lewis
