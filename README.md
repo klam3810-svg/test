@@ -16,3 +16,4 @@ We may encounter many defeats but we must not be defeated. - Maya Angelou
 xin chao 4
 xin chao 6
 "The only way to do great work is to love what you do." - Steve Jobs
+"In the middle of every difficulty lies opportunity." - Albert Einstein
