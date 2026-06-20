@@ -19,3 +19,4 @@ xin chao 6
 "It does not matter how slowly you go as long as you do not stop." - Confucius
 "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
 "In the middle of difficulty lies opportunity." - Albert Einstein
+"Spread love everywhere you go. Let no one ever come to you without leaving happier." - Mother Teresa
