@@ -20,3 +20,4 @@ xin chao 6
 "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
 "In the middle of difficulty lies opportunity." - Albert Einstein
 "Spread love everywhere you go. Let no one ever come to you without leaving happier." - Mother Teresa
+"Whether you think you can or you think you can't, you're right." - Henry Ford
