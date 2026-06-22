@@ -22,3 +22,4 @@ xin chao 6
 "Hardships often prepare ordinary people for an extraordinary destiny." - C.S. Lewis
 "You are never too old to set another goal or to dream a new dream." - C.S. Lewis
 "The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
+"The only impossible journey is the one you never begin."
