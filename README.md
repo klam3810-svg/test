@@ -21,3 +21,4 @@ xin chao 6
 "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
 "Hardships often prepare ordinary people for an extraordinary destiny." - C.S. Lewis
 "You are never too old to set another goal or to dream a new dream." - C.S. Lewis
+"The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt
