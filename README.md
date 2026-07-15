@@ -26,3 +26,4 @@ Do not watch the clock; do what it does. Keep going. - Sam Levenson
 "It always seems impossible until it's done." — Nelson Mandela
 "The secret of getting ahead is getting started." — Mark Twain
 "Whether you think you can or you think you can't, you're right." — Henry Ford
+"Keep your face always toward the sunshine, and shadows will fall behind you." — Walt Whitman
