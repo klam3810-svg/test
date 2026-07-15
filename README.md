@@ -21,3 +21,4 @@ The future belongs to those who believe in the beauty of their dreams. - Eleanor
 "It does not matter how slowly you go as long as you do not stop." — Confucius
 "The best time to plant a tree was 20 years ago. The second best time is now." — Chinese Proverb
 "The journey of a thousand miles begins with a single step." — Lao Tzu
+"Hardships often prepare ordinary people for an extraordinary destiny." — C.S. Lewis
