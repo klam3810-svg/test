@@ -25,5 +25,3 @@ The future belongs to those who believe in the beauty of their dreams. - Eleanor
 Do not watch the clock; do what it does. Keep going. - Sam Levenson
 "It always seems impossible until it's done." — Nelson Mandela
 "The secret of getting ahead is getting started." — Mark Twain
-"Whether you think you can or you think you can't, you're right." — Henry Ford
-"Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." — Christian D. Larson
