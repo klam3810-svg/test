@@ -32,3 +32,4 @@ Do not watch the clock; do what it does. Keep going. - Sam Levenson
 "The best way to predict the future is to invent it." — Alan Kay
 "Strive not to be a success, but rather to be of value." — Albert Einstein
 "The only limit to our realization of tomorrow will be our doubts of today." — Franklin D. Roosevelt
+"You miss 100% of the shots you don't take." — Wayne Gretzky
