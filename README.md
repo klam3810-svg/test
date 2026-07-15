@@ -27,3 +27,5 @@ Do not watch the clock; do what it does. Keep going. - Sam Levenson
 "The secret of getting ahead is getting started." — Mark Twain
 "Whether you think you can or you think you can't, you're right." — Henry Ford
 "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." — Christian D. Larson
+"Act as if what you do makes a difference. It does." — William James
+"Keep your face always toward the sunshine, and shadows will fall behind you." — Walt Whitman
