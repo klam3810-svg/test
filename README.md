@@ -22,3 +22,4 @@ The future belongs to those who believe in the beauty of their dreams. - Eleanor
 "The best time to plant a tree was 20 years ago. The second best time is now." — Chinese Proverb
 "The journey of a thousand miles begins with a single step." — Lao Tzu
 "Hardships often prepare ordinary people for an extraordinary destiny." — C.S. Lewis
+Do not watch the clock; do what it does. Keep going. - Sam Levenson
