@@ -29,3 +29,4 @@ Do not watch the clock; do what it does. Keep going. - Sam Levenson
 "Keep your face always toward the sunshine, and shadows will fall behind you." — Walt Whitman
 "Act as if what you do makes a difference. It does." — William James
 "You are never too old to set another goal or to dream a new dream." — C.S. Lewis
+"The best way to predict the future is to invent it." — Alan Kay
