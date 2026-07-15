@@ -31,3 +31,4 @@ Do not watch the clock; do what it does. Keep going. - Sam Levenson
 "You are never too old to set another goal or to dream a new dream." — C.S. Lewis
 "The best way to predict the future is to invent it." — Alan Kay
 "Strive not to be a success, but rather to be of value." — Albert Einstein
+"The only limit to our realization of tomorrow will be our doubts of today." — Franklin D. Roosevelt
