@@ -23,3 +23,4 @@ The future belongs to those who believe in the beauty of their dreams. - Eleanor
 "The journey of a thousand miles begins with a single step." — Lao Tzu
 "Hardships often prepare ordinary people for an extraordinary destiny." — C.S. Lewis
 Do not watch the clock; do what it does. Keep going. - Sam Levenson
+"It always seems impossible until it's done." — Nelson Mandela
