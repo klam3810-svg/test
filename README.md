@@ -32,3 +32,4 @@ Do not watch the clock; do what it does. Keep going. - Sam Levenson
 "The best way to predict the future is to invent it." — Alan Kay
 "Strive not to be a success, but rather to be of value." — Albert Einstein
 "To be or not to be, that is the question." — William Shakespeare
+!image-20260716-154647.png|width=636,alt="image-20260716-154647.png"!
